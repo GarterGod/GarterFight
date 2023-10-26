@@ -1,4 +1,4 @@
-"computer lock code==7704"
+
 "turns the userinput into an integer"
 def conversion():
     global Userinput
