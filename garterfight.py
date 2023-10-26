@@ -1,4 +1,4 @@
-
+#: )
 "turns the userinput into an integer"
 def conversion():
     global Userinput
